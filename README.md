@@ -1,26 +1,15 @@
 
-<!--
-**Tanmoy741127/Tanmoy741127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <h1 align="center">Hi 👋, I'm Tanmoy Sarkar</h1>
 <h3 align="center">A passionate backend developer & AI enthusiaist from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tanmoy741127" alt="Tanmoy741127" /></a> </p>
 
+<h3 align="left">Here is my current status</h3>
+- 🔭 I’m currently working on Web & App Development
+- 🌱 I’m currently learning Machine Learning & Deep Learning 
+- 👯 I’m looking to collaborate on AI based project
+- 💬 Ask me about anything. I will be 😃 to help you
+- 📫 How to reach me: Mail me to ts741127@gmail.com
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="" width="auto" height="40"></a>
