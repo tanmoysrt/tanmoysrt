@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Tanmoy741127/Tanmoy741127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
