@@ -5,11 +5,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tanmoy741127" alt="Tanmoy741127" /></a> </p>
 
 <h3 align="left">Here is my current status</h3>
-- 🔭 I’m currently working on Web & App Development
-- 🌱 I’m currently learning Machine Learning & Deep Learning 
-- 👯 I’m looking to collaborate on AI based project
-- 💬 Ask me about anything. I will be 😃 to help you
-- 📫 How to reach me: Mail me to ts741127@gmail.com
+<ul>
+<li>🔭 I’m currently working on Web & App Development</li>
+<li>🌱 I’m currently learning Machine Learning & Deep Learning </li>
+<li>👯 I’m looking to collaborate on AI based project</li>
+<li>💬 Ask me about anything. I will be 😃 to help you</li>
+<li>📫 How to reach me: Mail me to ts741127@gmail.com</li>
+</ul>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="" width="auto" height="40"></a>
