@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tanmoy Sarkar</h1>
-<h3 align="center">A passionate backend developer & AI enthusiaist from India</h3>
+<h3 align="center">A passionate backend developer & AI enthusiast from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tanmoy741127" alt="Tanmoy741127" /></a> </p>
 
