@@ -14,10 +14,10 @@
 </ul>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="" width="auto" height="40"></a>
-  <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="" width="40" height="40"></a>
-  <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="" width="40" height="40"></a>
-  <a href="" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="" width="40" height="40"></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="" width="auto" height="40"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="" width="40" height="40"></a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="" width="40" height="40"></a>
+  <a href="https://v5.getbootstrap.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="" width="40" height="40"></a>
   <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"></a>
   <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="" width="40" height="40"></a>
   <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="" width="40" height="40"></a>
