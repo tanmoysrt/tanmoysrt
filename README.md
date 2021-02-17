@@ -31,7 +31,7 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws, Amazon web services, aws deployment" width="auto" height="40"></a>
   <a href="https://www.heroku.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku, heroku hosting,heroku deployment" width="40" height="40"></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu, linux os, server administration" width="40" height="40"></a>
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a>
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git, github" width="40" height="40"></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual studio code, vs code by microsoft" width="40" height="40"></a>
 </p>
