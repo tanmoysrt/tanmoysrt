@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tanmoy Sarkar</h1>
 <h3 align="center">A passionate backend developer & AI enthusiast from India</h3>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Tanmoy741127"></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Tanmoy741127"></div><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tanmoy741127" alt="Tanmoy741127" /></a> </p>
 
 <h3 align="left">Here is my current status</h3>
