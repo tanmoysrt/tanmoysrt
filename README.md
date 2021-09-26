@@ -36,5 +36,8 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual studio code, vs code by microsoft" width="40" height="40"></a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmoy741127&show_icons=true&locale=en&layout=compact" alt="Tanmoy741127" height="195px" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmoy741127&show_icons=true&locale=en" alt="Tanmoy741127" heigh="195px" />
+
+<div style="display:flex;flex-direction:column;justify-content:center" >
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmoy741127&show_icons=true&locale=en&layout=compact" alt="Tanmoy741127" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmoy741127&show_icons=true&locale=en" alt="Tanmoy741127" heigh="195px" />
+</div>
