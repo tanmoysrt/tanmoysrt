@@ -37,7 +37,7 @@
 </p>
 
 
-<div style="display:flex;flex-direction:column;justify-content:center" >
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmoy741127&show_icons=true&locale=en&layout=compact" alt="Tanmoy741127" height="195px" />
+<div align="center>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmoy741127&show_icons=true&locale=en&layout=compact" alt="Tanmoy741127" height="195px" />
   <img src="https://github-readme-stats.vercel.app/api?username=Tanmoy741127&show_icons=true&locale=en" alt="Tanmoy741127" heigh="195px" />
 </div>
