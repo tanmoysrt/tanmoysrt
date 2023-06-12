@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Tanmoy Sarkar</h1>
 <h3 align="center">Full Stack Developer & Open Source Enthusiast</h3>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Tanmoy741127"></div><br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tanmoy741127&row=1&column=6&theme=flat&margin-w=5" alt="Tanmoy741127" /></a> </p>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=tanmoysrt"></div><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmoysrt&row=1&column=6&theme=flat&margin-w=5" alt="tanmoysrt" /></a> </p>
 
 <h3 align="left">Here is my current status</h3>
 <ul>
@@ -36,6 +36,6 @@
 
 
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmoy741127&show_icons=true&locale=en&layout=compact" alt="Tanmoy741127" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmoy741127&show_icons=true&locale=en" alt="Tanmoy741127" heigh="195px" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmoysrt&show_icons=true&locale=en&layout=compact" alt="tanmoysrt" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmoysrt&show_icons=true&locale=en" alt="tanmoysrt" heigh="195px" />
 </div>
